@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.py[cod]
+*.sqlite3-journal
+pdf_exports/
+*.log
